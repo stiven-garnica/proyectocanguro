@@ -1,0 +1,11 @@
+C:\Users\nozom\source\repos\API Ejercicio\DAL\bin\Debug\DAL.dll
+C:\Users\nozom\source\repos\API Ejercicio\DAL\bin\Debug\DAL.pdb
+C:\Users\nozom\source\repos\API Ejercicio\DAL\bin\Debug\Entities.dll
+C:\Users\nozom\source\repos\API Ejercicio\DAL\bin\Debug\Entities.pdb
+C:\Users\nozom\source\repos\API Ejercicio\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\nozom\source\repos\API Ejercicio\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\nozom\source\repos\API Ejercicio\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\nozom\source\repos\API Ejercicio\DAL\obj\Debug\DAL.dll
+C:\Users\nozom\source\repos\API Ejercicio\DAL\obj\Debug\DAL.pdb
+C:\Users\nozom\source\repos\API Ejercicio\DAL\bin\Debug\Dapper.dll
+C:\Users\nozom\source\repos\API Ejercicio\DAL\bin\Debug\Dapper.xml
